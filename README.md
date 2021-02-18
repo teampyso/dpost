@@ -40,3 +40,9 @@ yarn add dpost
 # Nightly Builds
 yarn add dpost-nightly
 ```
+
+## Supported Libraries
+
+| Creator                           | Name                                                                                                                                   |
+| --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Amish Shah (originally hydrabolt) | [![npm](static/npm.png)](https://npm.im/discord.js) [![GitHub](static/github.png)](https://github.com/discordjs/discord.js) discord.js |
