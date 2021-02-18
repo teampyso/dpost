@@ -46,3 +46,9 @@ yarn add dpost-nightly
 | Creator                           | Name                                                                                                                                   |
 | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | Amish Shah (originally hydrabolt) | [![npm](static/npm.png)](https://npm.im/discord.js) [![GitHub](static/github.png)](https://github.com/discordjs/discord.js) discord.js |
+
+## Supported Services
+
+| Name                              | Stats Posted                                                                                                                           |
+| --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| top.gg                            | `SERVERS`, `SHARDS`, `USERS`                                                                                                           |
