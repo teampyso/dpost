@@ -54,9 +54,9 @@ yarn add dpost-nightly
 | top.gg                            | `SERVERS`, `SHARDS`, `USERS`                                                                                                           |
 | InfinityBotList                   | `SERVERS`, `SHARDS`, `USERS`                                                                                                           |
 
-# Changelog
+## Changelog
 
-## [1.0.0] - 2021-01-07
+### [1.0.0] - 2021-01-07
 ### Added:
 
 - New Service: top.gg and Infinity Bot List 
