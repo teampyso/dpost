@@ -56,7 +56,6 @@ yarn add dpost-nightly
 
 ## Changelog
 
-### [1.0.0] - 2021-01-07
-### Added:
+### [1.0.0] Added:
 
 - New Service: top.gg and Infinity Bot List 
