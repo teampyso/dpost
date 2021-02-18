@@ -63,3 +63,10 @@ yarn add dpost-nightly
 ## Contribution
 
 Any contribution would greatly help the package! Please make sure when submitting issues or PRs that the issue has not already been addressed yet in a past issue/PR.
+
+## Links
+
+- [NPM](soon)
+- [Yarn](soon)
+- [Our Website](soon)
+- [Docs](soon)
