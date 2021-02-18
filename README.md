@@ -25,7 +25,11 @@ Our package focuses on being light weight with outstanding performance.
 
 **NPM (recommended)**
 ```
+# Stable
 npm i dpost --save
+
+# Nightly Builds
+npm i dpost-nightly --save
 ```
 
 **Yarn**
