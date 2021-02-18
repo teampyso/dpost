@@ -34,5 +34,9 @@ npm i dpost-nightly --save
 
 **Yarn**
 ```
+# Stable
 yarn add dpost
+
+# Nightly Builds
+yarn add dpost-nightly
 ```
