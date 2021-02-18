@@ -59,3 +59,7 @@ yarn add dpost-nightly
 ### [1.0.0] Added:
 
 - New Service: top.gg and Infinity Bot List 
+
+## Contribution
+
+Any contribution would greatly help the package! Please make sure when submitting issues or PRs that the issue has not already been addressed yet in a past issue/PR.
